@@ -17,7 +17,7 @@ I'm passionate about learning new technologies and building practical applicatio
 
 **Languages:** JavaScript, Python, C++, SQL
 
-**Frontend:** HTML, CSS, Bootstrap
+**Frontend:** HTML, CSS, Bootstrap, React
 
 **Backend:** Node.js, Express.js
 
