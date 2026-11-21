@@ -1,4 +1,4 @@
-# Hi, I'm a Computer Science Student 👋
+# Hi, I'm Lucaster 👋
 
 🎓 B.Tech Computer Science Engineering Student
 💻 Aspiring Software Developer | Full-Stack Development
